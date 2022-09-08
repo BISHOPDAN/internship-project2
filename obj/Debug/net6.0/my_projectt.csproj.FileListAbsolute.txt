@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\my_projectt\bin\Debug\net6.0\my_projectt.exe
+C:\Users\Acer\Desktop\my_projectt\bin\Debug\net6.0\my_projectt.deps.json
+C:\Users\Acer\Desktop\my_projectt\bin\Debug\net6.0\my_projectt.runtimeconfig.json
+C:\Users\Acer\Desktop\my_projectt\bin\Debug\net6.0\my_projectt.dll
+C:\Users\Acer\Desktop\my_projectt\bin\Debug\net6.0\my_projectt.pdb
+C:\Users\Acer\Desktop\my_projectt\obj\Debug\net6.0\my_projectt.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\my_projectt\obj\Debug\net6.0\my_projectt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\my_projectt\obj\Debug\net6.0\my_projectt.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\my_projectt\obj\Debug\net6.0\my_projectt.AssemblyInfo.cs
+C:\Users\Acer\Desktop\my_projectt\obj\Debug\net6.0\my_projectt.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\my_projectt\obj\Debug\net6.0\my_projectt.dll
+C:\Users\Acer\Desktop\my_projectt\obj\Debug\net6.0\refint\my_projectt.dll
+C:\Users\Acer\Desktop\my_projectt\obj\Debug\net6.0\my_projectt.pdb
+C:\Users\Acer\Desktop\my_projectt\obj\Debug\net6.0\my_projectt.genruntimeconfig.cache
+C:\Users\Acer\Desktop\my_projectt\obj\Debug\net6.0\ref\my_projectt.dll
