@@ -9,7 +9,7 @@ namespace Application
     {
         public static void Main()
         {
-            for (int year = 1995; year <= 2016; year++)
+            for (int year = 2000; year <= 2020; year++)
             {
                 if (DateTime.IsLeapYear(year))
                 {
@@ -20,6 +20,6 @@ namespace Application
                 }         
             }
         }
-    }
+}
 }
 

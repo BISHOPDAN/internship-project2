@@ -1,6 +1,7 @@
 /*
  * C# Program to Perform a Number Guessing Game
  */
+ 
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -13,7 +14,7 @@ namespace MyApplication
         {
            while (true)
             {
-                int randno = Newnum(1, 101);
+                int randno = Newnum(1, 1001);
                 int count = 1;
                 while (true)
                 {
