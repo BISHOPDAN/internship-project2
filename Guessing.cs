@@ -18,7 +18,7 @@ namespace MyApplication
                 int count = 1;
                 while (true)
                 {
-                    Console.Write("Enter a number between 1 and 100(0 to quit):");
+                    Console.Write("Enter a number between 1 and 1001(0 to quit):");
                     int input = Convert.ToInt32(Console.ReadLine());
                     if (input == 0)
                         return;
