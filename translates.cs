@@ -1,6 +1,6 @@
 // The Translation Task For My Internship
 
-/*
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -39,4 +39,3 @@ namespace Translate
             }
         } 
 }
-*/
