@@ -1,6 +1,6 @@
 // The Translation Task For My Internship
 
-
+/*
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +18,7 @@ namespace Translate
                 string first;
                 string last;
 
-                string txtEnglish = "The quick brown fox";
+                string txtEnglish = "The quick brown fox";        
                 string[] words = txtEnglish.Split(' ');
 
                 foreach (string word in words)
@@ -39,3 +39,4 @@ namespace Translate
             }
         } 
 }
+*/
